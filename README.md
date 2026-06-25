@@ -1,10 +1,7 @@
 <p align="center">
-  <img src="./profile_banner.png" alt="Gagan Kalakota Banner" width="100%" />
+  <img src="./gagan_banner.svg" alt="Gagan Kalakota Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Gagan Kalakota</h1>
-
-<h3 align="center">B.Tech CSE Student | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
